@@ -5,7 +5,7 @@ This application divided into two sections:
 
 - **Second:** Allows users to record content from an HTML canvas (*3D Rendering the content*) element (*We can play with element like zoom in/out or movement*) and upload the recorded video to a server. The video is captured using the `MediaRecorder` API and saved as a WebM file. We can download the video from ui only (*It will request the backend to get video for you*).
 
-- **Diagram:**
+   <img width="938" alt="Screenshot 2025-01-25 at 4 08 43 PM" src="https://github.com/user-attachments/assets/b5035ea3-a0ef-453b-869c-39ddf00cf04b" />
 
 ## Setup Instructions
 

@@ -3,7 +3,8 @@ import PointCloudViewerWithWebcam from "./components/PointCloudViewer";
 import WebcamStream from "./components/WebcamStream";
 
 const App = () => {
-  const plyFilePath = "./scaniverse-model62.ply";
+
+  const plyFilePath = ""; // To render a point cloud, provide the path to the .ply file here (eg. "./assets/scaniverse-model62.ply")
 
   return (
     <div style={{ display: "flex", justifyContent: "space-around", padding: "20px" }}>
